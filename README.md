@@ -5,6 +5,8 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I write clean code, but my desk is always a mess.
 
+- [![LeetCode Badge](https://img.shields.io/badge/dynamic/json?color=282c34&label=LeetCode&query=total_solved&url=https://leetcode-stats-api.herokuapp.com/<your_username>&logo=leetcode&logoColor=yellow)](https://leetcode.com/AnvitaRotherPal/)
+
 <!---
 anvitaRotherpal/anvitaRotherpal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

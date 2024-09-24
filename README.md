@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anvitaRotherpal
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning about backend development
-- 📫 How to reach me: www.linkedin.com/in/anvita-rother-pal-92a745217
+- 📫 How to reach me: www.linkedin.com/in/anvitapal
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I write clean code, but my desk is always a mess.
 

@@ -5,8 +5,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I write clean code, but my desk is always a mess.
 
-- [![LeetCode Badge](https://img.shields.io/badge/dynamic/json?color=282c34&label=LeetCode&query=total_solved&url=https://leetcode-stats-api.herokuapp.com/<your_username>&logo=leetcode&logoColor=yellow)](https://leetcode.com/AnvitaRotherPal/)
-
+-https://leetcode.com/u/AnvitaRotherPal/
 - [![GeeksforGeeks Badge](https://img.shields.io/badge/GeeksforGeeks-0f9d58?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/anvitarpalp8dg/)
 
 <!---
